@@ -1,0 +1,7 @@
+{
+  "name": "ionic-event-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
